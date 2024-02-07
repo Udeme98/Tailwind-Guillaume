@@ -1,9 +1,9 @@
-import Flex from "./Concepts/Flex";
+import Grid from "./Concepts/Grid";
 
 export default function App() {
   return (
     <>
-      <Flex />
+      <Grid />
     </>
   );
 }
