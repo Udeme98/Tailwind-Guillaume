@@ -11,13 +11,16 @@ export default function Spacing() {
       <div className="h-18 bg-red-500 w-6">d</div>
       <div className="bg-red-300 -mt-2">-mt-8</div>
 
-      {/* Space between */}
-      <div className="bg-red-500 w-16">Red</div>
-      <div className="w-16 h-16 bg-green-500">Green</div>
-
       {/*width and height*/}
       <div className="bg-green-800 h-5 w-6"></div>
-      <div className="bg-red-800 h-5 w-6"></div>
+      <div className="bg-red-800 h-4 w-6"></div>
+
+      {/* Space between */}
+      <div className="flex space-x-4 mt-1 ml-1">
+        <div className="bg-green-200 p-2">01</div>
+        <div className="bg-green-200 p-2">02</div>
+        <div className="bg-green-200 p-2">03</div>
+      </div>
     </div>
   );
 }
