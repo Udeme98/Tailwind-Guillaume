@@ -20,6 +20,24 @@ export default function Typography() {
       {/* text decoration */}
       <p className="underline decoration-red-500">Underline and red</p>
       <p className="line-through">Line-through</p>
+
+      {/* line height, text-transform*/}
+      <p className="leading-normal">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
+        aperiam aspernatur odit quae. Libero hic commodi ipsam natus alias quas
+        veniam labore? Nemo culpa ducimus mollitia rem facere iure maxime.
+      </p>
+      <p className="capitalize">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
+        aperiam aspernatur odit quae. Libero hic commodi ipsam natus alias quas
+        veniam labore? Nemo culpa ducimus mollitia rem facere iure maxime.
+      </p>
+
+      {/* overflow */}
+      <p className="truncate">
+        This will truncate this my sentence to become truncated...,This will
+        truncate this my sentence to become truncated...
+      </p>
     </div>
   );
 }
