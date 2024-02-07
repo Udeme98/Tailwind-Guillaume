@@ -1,9 +1,9 @@
-import Spacing from "./Concepts/Spacing";
+import Flex from "./Concepts/Flex";
 
 export default function App() {
   return (
     <>
-      <Spacing />
+      <Flex />
     </>
   );
 }
