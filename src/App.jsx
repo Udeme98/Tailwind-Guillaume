@@ -1,9 +1,9 @@
-import Typography from "./Concepts/Typography";
+import Spacing from "./Concepts/Spacing";
 
 export default function App() {
   return (
     <>
-      <Typography />
+      <Spacing />
     </>
   );
 }
