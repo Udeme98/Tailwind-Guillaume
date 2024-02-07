@@ -1,9 +1,9 @@
-import Colors from "./Concepts/Colors";
+import Typography from "./Concepts/Typography";
 
 export default function App() {
   return (
     <>
-      <Colors />
+      <Typography />
     </>
   );
 }
