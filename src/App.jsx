@@ -1,9 +1,9 @@
-import Grid from "./Concepts/Grid";
+import Layout from "./Concepts/Layout";
 
 export default function App() {
   return (
     <>
-      <Grid />
+      <Layout />
     </>
   );
 }
