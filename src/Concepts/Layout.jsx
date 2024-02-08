@@ -1,3 +1,7 @@
 export default function Grid() {
-  return <div>Layout</div>;
+  return (
+    <div>
+      <h2>Layout</h2>
+    </div>
+  );
 }
