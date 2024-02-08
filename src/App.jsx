@@ -1,9 +1,9 @@
-import Layout from "./Concepts/Layout";
+import Border from "./Concepts/Border";
 
 export default function App() {
   return (
     <>
-      <Layout />
+      <Border />
     </>
   );
 }
