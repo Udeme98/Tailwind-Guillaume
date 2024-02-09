@@ -1,9 +1,9 @@
-import Effects from "./Concepts/Effects";
+import Anitrans from "./Concepts/Anitrans";
 
 export default function App() {
   return (
     <>
-      <Effects />
+      <Anitrans />
     </>
   );
 }
