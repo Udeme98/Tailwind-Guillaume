@@ -1,6 +1,6 @@
 export default function Effect() {
   return (
-    <div className="h-screen p-4">
+    <div>
       <h2>Animations and Transition</h2>
     </div>
   );
