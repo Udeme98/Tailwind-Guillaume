@@ -1,9 +1,9 @@
-import Border from "./Concepts/Border";
+import Effects from "./Concepts/Effects";
 
 export default function App() {
   return (
     <>
-      <Border />
+      <Effects />
     </>
   );
 }
