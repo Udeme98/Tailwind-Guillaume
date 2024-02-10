@@ -1,9 +1,9 @@
-import Anitrans from "./Concepts/Anitrans";
+import Design from "./Concepts/Design";
 
 export default function App() {
   return (
     <>
-      <Anitrans />
+      <Design />
     </>
   );
 }
