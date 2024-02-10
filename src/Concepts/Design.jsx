@@ -1,7 +1,7 @@
 export default function Anitrans() {
   return (
     <div>
-      <h1>This the title</h1>
+      <h1>This is the title</h1>
       <h2>This is a subtitle</h2>
       <p>This is a paragraph</p>
       <a>This is an anchor</a>
