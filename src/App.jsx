@@ -1,9 +1,9 @@
-import Darkmode from "./Concepts/Darkmode";
+import Darkmode2 from "./Concepts/Darkmode2";
 
 export default function App() {
   return (
     <>
-      <Darkmode />
+      <Darkmode2 />
     </>
   );
 }
