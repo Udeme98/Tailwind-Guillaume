@@ -1,9 +1,9 @@
-import Design from "./Concepts/Design";
+import Darkmode from "./Concepts/Darkmode";
 
 export default function App() {
   return (
     <>
-      <Design />
+      <Darkmode />
     </>
   );
 }
